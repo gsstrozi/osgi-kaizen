@@ -1,1 +1,1 @@
-# osgi-kaizen
+# osgi-training
